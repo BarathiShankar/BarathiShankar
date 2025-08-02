@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Structures<br>🤝 I’m looking for help with Front and back end development<br>🌱 I’m currently learning Software Engineering<br>💬 Ask me about Anything<br>⚡ Fun fact Sky is not even a physical quantity,still it has colours
+🔭 I’m currently working on learning different languages from basics<br>🤝 I’m looking for gaining knowledge in back end development<br>🌱 My Passionate language is c++,MySQL and HTML<br>💬 Gaining knowledge from all possible sources to grow in the reality<br>⚡ Factive Motivation : Sky is not even a physical quantity,still it has colours.Then why dont we make our life more colourful
 
 
 ## 🌐 Socials:
@@ -25,3 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=BarathiShankar&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
