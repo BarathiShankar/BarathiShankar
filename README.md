@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center">
+<p align="center"><br>
   <!-- Socials -->
   <b>🌐 Socials:</b><br><br>
   <a href="https://facebook.com/r_b_shankar">
@@ -70,4 +70,5 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=BarathiShankar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </p>
+
 
