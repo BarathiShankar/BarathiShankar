@@ -1,4 +1,7 @@
-<p align="center"><b>🔥 About Me 🔥</b></p>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hella+Guys+!;I'm+Barathi+Shankar;Call+me+as+Barathi;Computer+Science+Student;Keen+Knowledge+Seeker" alt="Profile of Barathi Shankar"></a><br>
+</div><p align="center"><b>🔥 About Me 🔥</b></p>
 🔭 I’m currently working on learning different languages from basics<br>👀 I’m looking for gaining knowledge in back end development<br>💫 My Passionate language is C++, MySQL and HTML<br>📚 Gaining knowledge from all possible sources to grow better day by day<br>⚡ Factive Motivation : Sky is not even a physical quantity, still it has colours. Then why dont we make our life more colourful
 
 <br>
@@ -70,5 +73,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=BarathiShankar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </p>
+
 
 
