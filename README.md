@@ -1,4 +1,4 @@
-
+<!--Need to update the readme and make it more proffessional-->
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hella+Guys+!;I'm+Barathi+Shankar;Call+me+as+Barathi;Computer+Science+Student;Keen+Knowledge+Seeker" alt="Profile of Barathi Shankar"></a><br>
 </div><p align="center"><b>🔥 About Me 🔥</b></p>
@@ -7,7 +7,6 @@
 <br>
 
 <p align="center"><br>
-  <!-- Socials -->
   <b>🌐 Socials:</b><br><br>
   <a href="https://facebook.com/r_b_shankar">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
@@ -26,7 +25,6 @@
 <br>
 
 <p align="center">
-  <!-- Tech Stack -->
   <b>💻 Tech Stack:</b><br><br>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -42,7 +40,6 @@
 
 <p align="center">
 
-  <!-- GitHub Stats -->
   <b>📊 GitHub Stats:</b><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=BarathiShankar&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=BarathiShankar&theme=dark&hide_border=false" /><br>
@@ -52,7 +49,6 @@
 
 <p align="center">
 
-  <!-- GitHub Trophies -->
   <b>🏆 GitHub Trophies</b><br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=BarathiShankar&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 
@@ -60,7 +56,6 @@
 
 <p align="center">
 
-  <!-- Random Dev Quote -->
   <b>✍️ Random Dev Quote</b><br><br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
@@ -68,11 +63,11 @@
 
 <p align="center">
 
-  <!-- Top Contributed Repo -->
   <b>🔝 Top Contributed Repo</b><br><br>
   <img src="https://github-contributor-stats.vercel.app/api?username=BarathiShankar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </p>
+
 
 
 
