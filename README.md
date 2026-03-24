@@ -15,7 +15,10 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarathiShankar&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
   <br>
-  <img src="https://raw.githubusercontent.com/BarathiShankar/BarathiShankar/output/github-contribution-grid-snake.svg" alt="Snake Animation" /></div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BarathiShankar/BarathiShankar/output/dist/pacman.svg" />
+</p>
+
 </div>
 
 ---
